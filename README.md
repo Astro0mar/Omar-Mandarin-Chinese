@@ -2,6 +2,8 @@
 
 خارطة طريق رحلتي مع اللغة الصينية كهواية واستثمار طويل الأجل
 
+![aichina](https://news.cgtn.com/news/2021-04-12/China-tops-in-AI-patent-applications-with-74-7-of-world-s-total-ZoWW3nu9Lq/img/16afcfe76fab4a06b9c01e1c2be392b6/16afcfe76fab4a06b9c01e1c2be392b6.png)
+
 ### متى بدأت تعلم اللغة الصينية؟
 
 كانت البداية عام 2021 بعد مشاهدة فيديو بصوت الشهيد عبدالله علوان [تجده هنا](https://www.youtube.com/watch?v=wHqNMJPMDD4)
