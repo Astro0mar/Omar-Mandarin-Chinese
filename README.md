@@ -22,6 +22,7 @@
 ***
 
 ### آليّة التعلم التي أتبعها 🐼
+I will write it when I have time, sorry bro
 
 
 
@@ -34,11 +35,14 @@
 ### المصادر العربية 🍜
 
 #### قنوات يوتيوب 
+
+
 + [Seny Amr El-nagar](https://www.youtube.com/@senyamrelnagar)
 + [ُEman Awad](https://www.youtube.com/@emyloveChina)
 + [Shahenda Gamal](https://www.youtube.com/@shahendagamal3622)
 + [Aya Magdy](https://www.youtube.com/@ayooyaaa)
-
++ [Madrasetna Breaktime](https://www.youtube.com/playlist?list=PL9_fyJVCwp0Qp-1AY3_uQUIeQ2c4C2csg)
++ [ALY THABET](https://www.youtube.com/watch?v=C3424X-WGW4)
 
 
 
@@ -60,28 +64,38 @@
 ---
 
 ### المصادر الصينية ⛩️
+
+#### podcast
+
+
++ [打個電話給你 One Call Away](https://podcasts.apple.com/us/podcast/%E6%89%93%E5%80%8B%E9%9B%BB%E8%A9%B1%E7%B5%A6%E4%BD%A0-one-call-away/id1480389312)
+
       
      
-
+<!---
+[1]()
+-->
 
 
 #### قنوات يوتيوب 
 
 
-+ [المخبر الاقتصادي فرع الصين]([me/](https://youtube.com/@xiao_lin_shuo))
-
++ [小Lin说](https://www.youtube.com/@xiao_lin_shuo)
 + 
 
 
-
+<!---
+[1]()
+-->
 #### برامجي المفضلة على قناة سبيستون
 
 
 
 +
++ [铠甲勇士 Amor Hero](https://www.youtube.com/playlist?list=PLVZ5W6mlq8I-SmtCvgyYRXc9QB349CbUi)
 
-+ 
-
++ [Blazing Teens 1](https://www.youtube.com/playlist?list=PLBjTtqAloq9yF--DD5I4OrYFk9dSqk3FD)
++ [火力少年王 2](https://www.youtube.com/playlist?list=PL6cNRGbfxg1hzH_BObKB8PAwqK1GDeeYW)
 
 #### Blogs
 
@@ -99,6 +113,12 @@
 
 ***
 ### تطبيقات الهاتف المحمول 🪭
+
+***
+
+### جانب ثقافي
+
+
 
 
 
