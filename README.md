@@ -85,9 +85,9 @@ I will write it when I have time, sorry bro
 
 
 <!---
-[1]()
++ []()
 -->
-#### برامجي المفضلة على قناة سبيستون
+#### برامج ذكريات الماضي الجميل .. قناة سبيستون قناة شباب المستقبل
 
 
 
@@ -96,7 +96,7 @@ I will write it when I have time, sorry bro
 
 + [Blazing Teens 1](https://www.youtube.com/playlist?list=PLBjTtqAloq9yF--DD5I4OrYFk9dSqk3FD)
 + [火力少年王 2](https://www.youtube.com/playlist?list=PL6cNRGbfxg1hzH_BObKB8PAwqK1GDeeYW)
-
++ [樱桃小丸子 动漫 中文版](https://www.youtube.com/@chibimarukochanchinese)
 
 ![spacetoon](https://www.thaqfny.com/wp-content/uploads/2023/09/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%B3%D8%A8%D9%8A%D8%B3-%D8%AA%D9%88%D9%86.jpg)
 
