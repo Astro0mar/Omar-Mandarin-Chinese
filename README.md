@@ -21,9 +21,31 @@
 
 ***
 
+### آليّة التعلم التي أتبعها 
+
+
+***
+
+<!---
+[1]()
+-->
 ### المصادر العربية 
-> قنوات التليجرام
- قنوات اليوتيوب
+
+#### قنوات يوتيوب 
++
++
++
+
+
+
+
+#### قنوات تليجرام
+
++[1](https://t.me/joinchat/mAjPJqI-mi5lYzZk)
++[2](https://t.me/+Wq1Z_O6E78piNjY8)
++[3](https://t.me/Chineseperfect)
++[4](https://t.me/learnChineselanguag)
+
 
 
 ---
@@ -35,3 +57,21 @@
 
 ### المصادر الصينية
 
+
+
+#### قنوات يوتيوب 
+
+
++[المخبر الاقتصادي فرع الصين]([me/](https://youtube.com/@xiao_lin_shuo))
+
+####Blogs
+[1](https://www.shlab.org.cn/open)
+
+
+[2](https://blog.csdn.net/)
+
+
+[3](https://modelscope.cn/models)
+
+عندهم منصة خاصة لل competitive programming برضو 
+https://www.luogu.com.cn/
