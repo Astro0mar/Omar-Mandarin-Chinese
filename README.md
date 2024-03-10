@@ -100,7 +100,7 @@ I will write it when I have time, sorry bro
 
 ![spacetoon](https://www.thaqfny.com/wp-content/uploads/2023/09/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%B3%D8%A8%D9%8A%D8%B3-%D8%AA%D9%88%D9%86.jpg)
 
-#### Blogs
+#### Computer Science Blogs & Websites
 
 [1](https://www.shlab.org.cn/open)
 
