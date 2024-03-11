@@ -66,6 +66,8 @@ I will write it when I have time, sorry bro
 #### قنوات يوتيوب 
 
 + [Sisi Laoshi 思思老师](https://www.youtube.com/@SisiMandarin)
++ [Mandarin Chinese with Taskpins](https://www.youtube.com/@MandarinChinesewithTaskpins)
+
 
 
 ---
