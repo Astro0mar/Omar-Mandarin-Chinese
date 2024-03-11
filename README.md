@@ -110,7 +110,9 @@ I will write it when I have time, sorry bro
 
 [3](https://modelscope.cn/models)
 
-عندهم منصة خاصة لل competitive programming برضو 
+
+
+>  عندهم منصة خاصة لل competitive programming برضو 
 [4](https://www.luogu.com.cn/)
 
 
