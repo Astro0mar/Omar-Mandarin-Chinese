@@ -7,7 +7,7 @@
 
 ### متى بدأت تعلم اللغة الصينية؟ 🐉
 
-كانت البداية عام 2021 بعد مشاهدة فيديو بصوت الشهيد عبدالله علوان [تجده هنا](https://www.youtube.com/watch?v=wHqNMJPMDD4)
+كانت البداية عام 2022 بعد مشاهدة فيديو بصوت الشهيد عبدالله علوان [تجده هنا](https://www.youtube.com/watch?v=wHqNMJPMDD4)
 ***
 
 
@@ -22,7 +22,9 @@
 ***
 
 ### آليّة التعلم التي أتبعها 🐼
-I will write it when I have time, sorry bro
+
+
+القليل من التقدم كل يوم يؤدِّي إلى نتائج كبيرة في النهاية.
 
 
 
@@ -45,7 +47,8 @@ I will write it when I have time, sorry bro
 + [Radwa Mohamed](https://www.youtube.com/@radwamohamed5437)
 + [ALY THABET](https://www.youtube.com/watch?v=C3424X-WGW4)
 + [Learn with Sajid](https://www.youtube.com/@sajid936)
-
++ [Luna Chinese](https://www.youtube.com/channel/UCjFfL2lGxdYE30egj_8hP4g)
++ [Alaa_Hussein](https://www.youtube.com/@Alaa_Hussein_Hnzakrceny/videos)
 
 
 #### قنوات تليجرام
@@ -59,7 +62,9 @@ I will write it when I have time, sorry bro
 
 
 ---
-
+<!---
++ []()
+-->
 
 ### المصادر الإنجليزية 🍁
 
@@ -67,7 +72,7 @@ I will write it when I have time, sorry bro
 
 + [Sisi Laoshi 思思老师](https://www.youtube.com/@SisiMandarin)
 + [Mandarin Chinese with Taskpins](https://www.youtube.com/@MandarinChinesewithTaskpins)
-
++ [Eleven Second Chinese](https://www.youtube.com/channel/UCKdv3YZSjQSCmammtacX8pA)
 
 
 ---
@@ -129,6 +134,7 @@ I will write it when I have time, sorry bro
 ***
 ### تطبيقات الهاتف المحمول 🪭
 + Pleco
+  
   Best English and Chinese Dictionary application
   [ios](https://apps.apple.com/us/app/pleco-chinese-dictionary/id341922306)
   [android](https://play.google.com/store/apps/details?id=com.pleco.chinesesystem&hl=en&gl=US&pli=1)
@@ -139,7 +145,9 @@ I will write it when I have time, sorry bro
 
 ### جانب ثقافي
 
-
+***
+明日，无人的荒地里将盛开我的愿望，
+在欢乐的天空中将如同飞鸟般翱翔着
 
 
 
