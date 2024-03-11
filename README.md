@@ -1,4 +1,4 @@
-# MandarinRoadmapByOmar
+# Omar Mandarin Chinese
 
 你好
 خارطة طريق رحلتي مع اللغة الصينية كهواية واستثمار طويل الأجل
