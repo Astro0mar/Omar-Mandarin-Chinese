@@ -30,7 +30,7 @@ I will write it when I have time, sorry bro
 ***
 
 <!---
-[1]()
++ []()
 -->
 ### المصادر العربية 🍜
 
@@ -38,11 +38,13 @@ I will write it when I have time, sorry bro
 
 
 + [Seny Amr El-nagar](https://www.youtube.com/@senyamrelnagar)
-+ [ُEman Awad](https://www.youtube.com/@emyloveChina)
++ [Eman Awad](https://www.youtube.com/@emyloveChina)
 + [Shahenda Gamal](https://www.youtube.com/@shahendagamal3622)
 + [Aya Magdy](https://www.youtube.com/@ayooyaaa)
 + [Madrasetna Breaktime](https://www.youtube.com/playlist?list=PL9_fyJVCwp0Qp-1AY3_uQUIeQ2c4C2csg)
++ [Radwa Mohamed](https://www.youtube.com/@radwamohamed5437)
 + [ALY THABET](https://www.youtube.com/watch?v=C3424X-WGW4)
++ [Learn with Sajid](https://www.youtube.com/@sajid936)
 
 
 
@@ -60,6 +62,11 @@ I will write it when I have time, sorry bro
 
 
 ### المصادر الإنجليزية 🍁
+
+#### قنوات يوتيوب 
+
++ [Sisi Laoshi 思思老师](https://www.youtube.com/@SisiMandarin)
+
 
 ---
 
@@ -100,7 +107,7 @@ I will write it when I have time, sorry bro
 
 ![spacetoon](https://www.thaqfny.com/wp-content/uploads/2023/09/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%B3%D8%A8%D9%8A%D8%B3-%D8%AA%D9%88%D9%86.jpg)
 
-#### Computer Science Blogs & Websites
+#### Computer Science Blogs & Websites 网站 wǎngzhàn
 
 [1](https://www.shlab.org.cn/open)
 
@@ -112,12 +119,19 @@ I will write it when I have time, sorry bro
 
 
 
->  عندهم منصة خاصة لل competitive programming برضو 
+>  عندهم منصة خاصة لل competitive programming برضو
+
 [4](https://www.luogu.com.cn/)
 
 
 ***
 ### تطبيقات الهاتف المحمول 🪭
++ Pleco
+  Best English and Chinese Dictionary application
+  [ios](https://apps.apple.com/us/app/pleco-chinese-dictionary/id341922306)
+  [android](https://play.google.com/store/apps/details?id=com.pleco.chinesesystem&hl=en&gl=US&pli=1)
+
+
 
 ***
 
