@@ -58,6 +58,7 @@
 + [博大精深的汉语](https://t.me/joinchat/mAjPJqI-mi5lYzZk)
 + [一步一步地学习中文](https://t.me/+Wq1Z_O6E78piNjY8)
 + [尽快学汉语🇨🇳📖](https://t.me/Chineseperfect)
++ [中文图书馆](https://t.me/lona_chinese)
 
 
 
