@@ -84,6 +84,7 @@
 
 
 + [打個電話給你 One Call Away](https://podcasts.apple.com/us/podcast/%E6%89%93%E5%80%8B%E9%9B%BB%E8%A9%B1%E7%B5%A6%E4%BD%A0-one-call-away/id1480389312)
++ [5 Minute Chinese 五分钟中文](https://podcasts.apple.com/vn/podcast/5-minute-chinese-%E4%BA%94%E5%88%86%E9%92%9F%E4%B8%AD%E6%96%87/id1589619035)
 
       
      
@@ -131,6 +132,10 @@
 
 [4](https://www.luogu.com.cn/)
 
+
+#### usful links
+
++ [vocab](cnvocab.com)
 
 ***
 ### تطبيقات الهاتف المحمول 🪭
