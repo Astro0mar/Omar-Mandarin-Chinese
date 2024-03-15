@@ -59,6 +59,8 @@
 + [一步一步地学习中文](https://t.me/+Wq1Z_O6E78piNjY8)
 + [尽快学汉语🇨🇳📖](https://t.me/Chineseperfect)
 + [中文图书馆](https://t.me/lona_chinese)
++ [Yao Fei](https://t.me/YaoFei1)
++ [小虎老师](https://t.me/hanzi3almashi)
 
 
 
@@ -74,6 +76,7 @@
 + [Sisi Laoshi 思思老师](https://www.youtube.com/@SisiMandarin)
 + [Mandarin Chinese with Taskpins](https://www.youtube.com/@MandarinChinesewithTaskpins)
 + [Eleven Second Chinese](https://www.youtube.com/channel/UCKdv3YZSjQSCmammtacX8pA)
++ [Chinative](https://www.youtube.com/@chi-native)
 
 
 ---
@@ -128,14 +131,13 @@
 
 
 
->  عندهم منصة خاصة لل competitive programming برضو
 
-[4](https://www.luogu.com.cn/)
+[competitive programming](https://www.luogu.com.cn/)
 
 
 #### usful links
 
-+ [vocab](cnvocab.com)
++ [vocab](https://cnvocab.com/)
 
 ***
 ### تطبيقات الهاتف المحمول 🪭
