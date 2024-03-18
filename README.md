@@ -62,6 +62,9 @@
 + [中文图书馆](https://t.me/lona_chinese)
 + [Yao Fei](https://t.me/YaoFei1)
 + [小虎老师](https://t.me/hanzi3almashi)
++ [再努力一点儿](https://t.me/chineseyoung1)
++ [刻苦的老师“初级课堂](https://t.me/chineseforbeginers2022)
++ [中文图书馆](https://t.me/lona_chinese)
 
 
 
