@@ -53,6 +53,7 @@
 + [Luna Chinese](https://www.youtube.com/channel/UCjFfL2lGxdYE30egj_8hP4g)
 + [Alaa_Hussein](https://www.youtube.com/@Alaa_Hussein_Hnzakrceny/videos)
 + [CH.Mohamed Magdy](https://www.youtube.com/@CH-Mohamed-Magdy/videos)
++ [Qahwa Seny](https://www.youtube.com/@Qahwa_seny)
 
 
 #### قنوات تليجرام
